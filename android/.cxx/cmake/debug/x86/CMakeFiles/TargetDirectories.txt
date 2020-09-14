@@ -1,0 +1,3 @@
+/home/niels/gitProjects/lua_vm/android/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/home/niels/gitProjects/lua_vm/android/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/home/niels/gitProjects/lua_vm/android/.cxx/cmake/debug/x86/CMakeFiles/lua.dir

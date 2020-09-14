@@ -1,0 +1,1 @@
+[1/1] Linking C shared library /home/niels/gitProjects/lua_vm/example/build/lua_vm/intermediates/cmake/debug/obj/armeabi-v7a/libluavm.so

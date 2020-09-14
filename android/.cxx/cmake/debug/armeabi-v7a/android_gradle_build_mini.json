@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/home/niels/gitProjects/lua_vm/android/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/niels/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/niels/gitProjects/lua_vm/android/.cxx/cmake/debug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "lua-Debug-armeabi-v7a": {
+      "artifactName": "lua",
+      "buildCommand": "/home/niels/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/niels/gitProjects/lua_vm/android/.cxx/cmake/debug/armeabi-v7a --target lua",
+      "abi": "armeabi-v7a",
+      "output": "/home/niels/gitProjects/lua_vm/example/build/lua_vm/intermediates/cmake/debug/obj/armeabi-v7a/liblua.so"
+    }
+  }
+}
